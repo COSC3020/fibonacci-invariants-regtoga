@@ -2,7 +2,8 @@ function fib(n) {
     //This is a pretty simple function, just create an array...
     //use the numberprovided as an index into the array
     //if the index is either of the base cases just set the index to the base cases
-    //else add the two last indexes together to create a third index, repeat untill you get to the top of the recursion
+    //else add the two last indexes together to create a third index, 
+    //repeat untill you get to the top of the recursion
     var arr = new Array(n);
 
     function findFib(Array, index){
