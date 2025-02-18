@@ -23,3 +23,6 @@ function fib(n) {
     findFib(arr, n);
     return arr;
 }
+
+
+fib(13)
